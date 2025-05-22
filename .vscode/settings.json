@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jianghan/carla-ros-bridge/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/jianghan/ISS/ros1_ws/devel/lib/python3/dist-packages",
+        "/home/jianghan/yahboomcar_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/jianghan/Carla/PythonAPI/carla",
+        "/home/jianghan/Carla/PythonAPI/carla/dist/carla-0.9.13-py3.7-linux-x86_64.egg",
+        "/home/jianghan/Carla/PythonAPI/carla"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jianghan/carla-ros-bridge/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/jianghan/ISS/ros1_ws/devel/lib/python3/dist-packages",
+        "/home/jianghan/yahboomcar_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/jianghan/Carla/PythonAPI/carla",
+        "/home/jianghan/Carla/PythonAPI/carla/dist/carla-0.9.13-py3.7-linux-x86_64.egg",
+        "/home/jianghan/Carla/PythonAPI/carla"
+    ],
+    "cmake.sourceDirectory": "/home/jianghan/ros_ws/src/learn_topic",
+    "C_Cpp.errorSquiggles": "disabled"
+}

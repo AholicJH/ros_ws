@@ -1,0 +1,2 @@
+set(learn_action_MESSAGE_FILES "/home/jianghan/ros_ws/devel/share/learn_action/msg/DoDishesAction.msg;/home/jianghan/ros_ws/devel/share/learn_action/msg/DoDishesActionGoal.msg;/home/jianghan/ros_ws/devel/share/learn_action/msg/DoDishesActionResult.msg;/home/jianghan/ros_ws/devel/share/learn_action/msg/DoDishesActionFeedback.msg;/home/jianghan/ros_ws/devel/share/learn_action/msg/DoDishesGoal.msg;/home/jianghan/ros_ws/devel/share/learn_action/msg/DoDishesResult.msg;/home/jianghan/ros_ws/devel/share/learn_action/msg/DoDishesFeedback.msg")
+set(learn_action_SERVICE_FILES "")
